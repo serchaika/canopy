@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/b8d6f342-c18b-492e-b87f-06755f775c5f" alt="Canopy Logo" width="500"/>
 
-_Official golang implementation of the Canopy Network Protocol_
+_Official golang implementation of the Canopy Network Protocol_chaika
 
 [![GoDoc](https://img.shields.io/badge/godoc-reference-white.svg)](https://godoc.org/github.com/canopy-network/canopy)
 [![Getting Started](https://img.shields.io/badge/getting%20started-guide-white)](https://canopynetwork.org)
